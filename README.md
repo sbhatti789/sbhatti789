@@ -1,4 +1,3 @@
-About Me
 Hey there! I'm Samad Bhatti, a Computer Science undergraduate student at the University of Illinois Chicago (UIC), expected to graduate in June 2026.
 
 As a child, I have always had a passion for technology. Ranging from gaming for countless hours as a child to learning different editing tools, I have always had a desire to be a part of the tech field. 
