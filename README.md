@@ -12,5 +12,5 @@ Let's Connect!
 I'm always open to connecting with fellow enthusiasts and industry professionals. Feel free to reach out to me via email or connect with me on LinkedIn. Let's chat about tech, projects, or anything else that piques your interest!
 
 Email: samad.bhatti789123@gmail.com
-LinkedIn: https://www.linkedin.com/in/samad-bhatti-6a6046276/
-Looking forward to connecting with you! 😄
+LinkedIn: https://www.linkedin.com/in/samad-bhatti
+Looking forward to connecting with you! 
