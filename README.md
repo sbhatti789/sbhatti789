@@ -21,22 +21,6 @@ Currently focused on:
 - **Languages:** Python, Java, SQL, JavaScript  
 - **Tools:** Git, Linux, Windows, REST APIs  
 - **Concepts:** Networking, Security Basics, Troubleshooting  
-
----
-
-## 🚀 Projects
-- 🧠 AI Customer Support Chatbot  
-- 📦 Inventory Management System  
-- 🥫 Pantry Tracking Application  
-- 🔐 *(Upcoming)* Cybersecurity Projects  
-
----
-
-## 📈 What I'm Working On
-- Improving my GitHub portfolio  
-- Building cybersecurity-focused projects  
-- Strengthening system and networking knowledge  
-
 ---
 
 ## 📫 Connect With Me
